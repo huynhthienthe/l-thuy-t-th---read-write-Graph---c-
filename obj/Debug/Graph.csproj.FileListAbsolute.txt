@@ -1,0 +1,8 @@
+D:\huflit\code\Graph\bin\Debug\Graph.exe.config
+D:\huflit\code\Graph\bin\Debug\Graph.exe
+D:\huflit\code\Graph\bin\Debug\Graph.pdb
+D:\huflit\code\Graph\obj\Debug\Graph.csproj.AssemblyReference.cache
+D:\huflit\code\Graph\obj\Debug\Graph.csproj.SuggestedBindingRedirects.cache
+D:\huflit\code\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+D:\huflit\code\Graph\obj\Debug\Graph.exe
+D:\huflit\code\Graph\obj\Debug\Graph.pdb
